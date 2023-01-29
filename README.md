@@ -16,4 +16,4 @@ It's much more than that, you should use **ethics** here as well as your daily l
 
 
 ***<h3>My GitHub link</h3>***
-Just to test my hyperlinking skills I will put this link [here](https://https://github.com/TheTeaser) for my GitHub account.
+Just to test my hyperlinking skills I will put this link [here](https://github.com/TheTeaser) for my GitHub account.

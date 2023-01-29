@@ -10,6 +10,10 @@ I have 0 expirence in the field of software engineering as I've worked in other 
 
 **<h2>What I learned</h2>**
 
-<p> Coding is not simple the act of learning how to write a program in a specific language and then releasing. <br><br>
+<p> Coding is not simple the act of learning how to write a program in a specific language and then releasing. <br>
 
-It's much more than that, you should use ethics here as well as your daily life, You need to get to know what are you creating and for who, How to make simply and as efficent as possible & also we must create a program that we will be able to improvve and fix instead of building what so ever without planning ahead how to deal with it later.</p>
+It's much more than that, you should use **ethics** here as well as your daily life, You need to get to know what are you creating and for whome, How to make it simply and as efficent as possible & also we must create a program that we will be able to improve and fix instead of building what so ever without planning ahead how to deal with it later.</p><br>
+
+
+***<h3>My GitHub link</h3>***
+Just to test my hyperlinking skills I will put this link [here](https://https://github.com/TheTeaser) for my GitHub account.
